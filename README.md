@@ -1,2 +1,26 @@
-Last updated: 2026-08-23 22:01:26 WIB
-Last updated: 2026-08-23 22:09:53 WIB
+# antonock.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **29 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-23 22:16:58 WIB*
